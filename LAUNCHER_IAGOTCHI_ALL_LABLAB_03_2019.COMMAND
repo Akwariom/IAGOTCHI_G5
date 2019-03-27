@@ -7,9 +7,6 @@ cd $(dirname $0)
 echo opening IAGORECO
 open ../IAGORECO/LAUNCHER_IAGORECO.COMMAND &
 
-echo opening IAGORECOIMAGES
-open ../IAGORECO/LAUNCHER_IAGOPIXA.COMMAND &
-
 echo opening IAGOPIXA
 open ../IAGORECO/LAUNCHER_IAGOPIXA.COMMAND &
 
@@ -35,19 +32,14 @@ echo opening IAGOGOTCHI
 open ../IAGOTCHI_G5/IAGOTCHI_G5.maxpat &
 
 echo opening IAGOTRANS
-../IAGOTRANS/LAUNCHER_IAGOTRANS.COMMAND
+../IAGOTRANS/LAUNCHER_IAGOTRANS.COMMAND &
 
 echo opening IAGONLP
-../IAGONLP/LAUNCHER_IAGONLP.COMMAND
+../IAGONLP/LAUNCHER_IAGONLP.COMMAND &
 
 sleep 1
 
 echo opening ASR webpage
-open -a "Google Chrome" http://localhost:8080
-
-sleep 30
-
-echo opening IAGOCONSOLE
-open ../IAGOCONSOLE/console/application.macosx/console.app &
+open -a "Google Chrome" http://localhost:8080 &
 
 echo Done
