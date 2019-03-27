@@ -25,17 +25,12 @@ open ../IAGOWIKI/LAUNCHER_IAGOWIKI.COMMAND &
 echo opening IAGOGENERATOR
 open ../IAGOGENERATOR/LAUNCHER_IAGOGENERATOR.COMMAND &
 
-echo opening IAGOVOIX
-open ../IAGOVOIX/iagoVoix.als &
+echo opening LIVE SET
+open ../G5Coexistence/G5Coexistence_LYON_03_19.als &
 
 echo opening IAGOGOTCHI
 open ../IAGOTCHI_G5/IAGOTCHI_G5.maxpat &
 
-echo opening IAGOTRANS
-../IAGOTRANS/LAUNCHER_IAGOTRANS.COMMAND &
-
-echo opening IAGONLP
-../IAGONLP/LAUNCHER_IAGONLP.COMMAND &
 
 sleep 1
 
