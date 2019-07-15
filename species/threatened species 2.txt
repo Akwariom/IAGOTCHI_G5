@@ -1,0 +1,1260 @@
+Afghanistan / Afghanistan
+Vertebrates	31	31	32	31	35	35	34	Vertébrés
+Invertebrates	1	1	2	2	2	2	2	Invertébrés
+Plants	1	2	3	5	5	5	5	Plantes
+Total	33	34	37	38	42	42	41	Total
+Albania / Albanie
+Vertebrates	33	53	53	54	63	62	62	Vertébrés
+Invertebrates	4	47	56	58	62	68	71	Invertébrés
+Plants	0	0	0	0	0	0	4	Plantes
+Total	37	100	109	112	125	130	137	Total
+Algeria / Algérie
+Vertebrates	36	69	71	71	78	79	80	Vertébrés
+Invertebrates	12	21	25	26	29	38	40	Invertébrés
+Plants	2	15	17	17	18	18	23	Plantes
+Total	50	105	113	114	125	135	143	Total
+American Samoa / Samoa  américaines
+Vertebrates	18	21	25	25	27	27	27	Vertébrés
+Invertebrates	5	57	64	64	64	64	64	Invertébrés
+Plants	1	1	1	1	1	1	1	Plantes
+Total	24	79	90	90	92	92	92	Total
+Andorra / Andorre
+Vertebrates	1	4	4	4	5	5	6	Vertébrés
+Invertebrates	4	4	7	7	7	8	8	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	5	8	11	11	12	13	14	Total
+Angola / Angola
+Vertebrates	44	77	87	87	99	103	108	Vertébrés
+Invertebrates	6	7	9	9	9	9	11	Invertébrés
+Plants	26	33	34	34	34	34	35	Plantes
+Total	76	117	130	130	142	146	154	Total
+Anguilla / Anguilla
+Vertebrates	15	20	29	37	38	38	40	Vertébrés
+Invertebrates	0	10	10	10	10	10	10	Invertébrés
+Plants	3	3	3	4	4	4	4	Plantes
+Total	18	33	42	51	52	52	54	Total
+Antarctica / Antarctique
+Vertebrates	8	6	6	6	6	6	6	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	8	6	6	6	6	6	6	Total
+Antigua and Barbuda / Antigua-et-Barbuda
+Vertebrates	18	23	30	38	38	40	41	Vertébrés
+Invertebrates	0	11	11	11	11	11	11	Invertébrés
+Plants	4	4	4	4	4	4	4	Plantes
+Total	22	38	45	53	53	55	56	Total
+Argentina / Argentine
+Vertebrates	134	157	160	160	172	172	186	Vertébrés
+Invertebrates	10	12	13	13	14	14	14	Invertébrés
+Plants	42	44	70	70	70	70	70	Plantes
+Total	186	213	243	243	256	256	270	Total
+Armenia / Arménie
+Vertebrates	27	29	31	31	34	34	33	Vertébrés
+Invertebrates	7	6	9	9	9	9	9	Invertébrés
+Plants	1	1	71	71	71	71	73	Plantes
+Total	35	36	111	111	114	114	115	Total
+Aruba / Aruba
+Vertebrates	17	20	19	25	28	28	28	Vertébrés
+Invertebrates	1	1	2	2	2	2	2	Invertébrés
+Plants	0	1	2	2	2	2	2	Plantes
+Total	18	22	23	29	32	32	32	Total
+Australia / Australie
+Vertebrates	282	297	304	304	319	323	358	Vertébrés
+Invertebrates	283	489	511	514	514	531	534	Invertébrés
+Plants	56	67	91	91	93	94	106	Plantes
+Total	621	853	906	909	926	948	998	Total
+Austria / Autriche
+Vertebrates	20	23	24	24	27	26	28	Vertébrés
+Invertebrates	44	55	70	69	69	71	74	Invertébrés
+Plants	3	4	13	13	21	21	25	Plantes
+Total	67	82	107	106	117	118	127	Total
+Azerbaijan / Azerbaïdjan
+Vertebrates	32	41	43	43	47	48	47	Vertébrés
+Invertebrates	6	4	7	7	7	7	7	Invertébrés
+Plants	0	0	42	42	42	42	43	Plantes
+Total	38	45	92	92	96	97	97	Total
+Bahamas / Bahamas
+Vertebrates	36	44	52	61	65	66	71	Vertébrés
+Invertebrates	1	11	12	12	12	12	12	Invertébrés
+Plants	5	7	8	8	8	8	7	Plantes
+Total	42	62	72	81	85	86	90	Total
+Bahrain / Bahreïn
+Vertebrates	18	19	20	19	23	23	27	Vertébrés
+Invertebrates	0	13	13	13	13	13	13	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	18	32	33	32	36	36	40	Total
+Bangladesh / Bangladesh
+Vertebrates	73	104	108	109	120	123	125	Vertébrés
+Invertebrates	0	2	7	7	7	7	7	Invertébrés
+Plants	12	16	17	21	21	21	22	Plantes
+Total	85	122	132	137	148	151	154	Total
+Barbados / Barbade
+Vertebrates	18	24	31	37	39	42	43	Vertébrés
+Invertebrates	0	10	11	11	11	11	11	Invertébrés
+Plants	2	2	3	3	3	3	3	Plantes
+Total	20	36	45	51	53	56	57	Total
+Belarus / Bélarus
+Vertebrates	10	10	12	11	14	15	15	Vertébrés
+Invertebrates	8	6	9	9	9	9	10	Invertébrés
+Plants	0	0	1	1	1	1	1	Plantes
+Total	18	16	22	21	24	25	26	Total
+Belgium / Belgique
+Vertebrates	25	15	17	16	23	22	23	Vertébrés
+Invertebrates	11	11	14	14	14	14	15	Invertébrés
+Plants	0	1	0	0	1	1	1	Plantes
+Total	36	27	31	30	38	37	39	Total
+Belize / Belize
+Vertebrates	36	48	60	70	70	69	69	Vertébrés
+Invertebrates	1	12	12	12	12	12	12	Invertébrés
+Plants	30	32	33	35	36	36	43	Plantes
+Total	67	92	105	117	118	117	124	Total
+Benin / Bénin
+Vertebrates	17	47	55	55	66	68	70	Vertébrés
+Invertebrates	0	1	3	3	3	3	3	Invertébrés
+Plants	14	14	16	16	17	17	19	Plantes
+Total	31	62	74	74	86	88	92	Total
+Bermuda / Bermudes
+Vertebrates	18	18	25	28	35	36	36	Vertébrés
+Invertebrates	25	28	28	28	28	28	28	Invertébrés
+Plants	4	4	7	8	8	8	8	Plantes
+Total	47	50	60	64	71	72	72	Total
+Bhutan / Bhoutan
+Vertebrates	40	50	52	52	54	52	51	Vertébrés
+Invertebrates	1	1	1	1	1	1	1	Invertébrés
+Plants	7	8	12	18	18	18	43	Plantes
+Total	48	59	65	71	73	71	95	Total
+Bolivia / Bolivie
+Vertebrates	79	90	114	114	124	124	129	Vertébrés
+Invertebrates	1	1	3	3	3	3	3	Invertébrés
+Plants	70	72	99	99	104	104	104	Plantes
+Total	150	163	216	216	231	231	236	Total
+Bonaire, St. Eustatius & Saba / Bonaire, St-Eustache et Saba
+Vertebrates			32	41	42	42	42	Vertébrés
+Invertebrates			11	11	11	11	11	Invertébrés
+Plants			3	3	3	3	3	Plantes
+Total			46	55	56	56	56	Total
+Bosnia and Herzegovina / Bosnie-Herzégovine
+Vertebrates	29	44	46	48	51	51	50	Vertébrés
+Invertebrates	10	22	36	36	36	39	42	Invertébrés
+Plants	1	1	1	1	1	1	3	Plantes
+Total	40	67	83	85	88	91	95	Total
+Botswana / Botswana
+Vertebrates	15	18	22	22	24	26	28	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	0	0	2	2	2	2	2	Plantes
+Total	15	18	24	24	26	28	30	Total
+Bouvet Island / Île Bouvet
+Vertebrates	1	2	3	3	3	3	3	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	1	2	3	3	3	3	3	Total
+Brazil / Brésil
+Vertebrates	282	341	395	396	397	403	407	Vertébrés
+Invertebrates	34	45	54	54	55	55	55	Invertébrés
+Plants	381	387	516	516	521	532	538	Plantes
+Total	697	773	965	966	973	990	1000	Total
+British Indian Ocean Terr. / Terr. brit. de l’océan Indien
+Vertebrates	6	10	11	11	14	15	15	Vertébrés
+Invertebrates	0	65	69	69	69	69	69	Invertébrés
+Plants	1	1	1	1	1	1	1	Plantes
+Total	7	76	81	81	84	85	85	Total
+British Virgin Islands / Îles Vierges britanniques
+Vertebrates	20	23	33	41	41	47	48	Vertébrés
+Invertebrates	0	10	10	10	10	10	10	Invertébrés
+Plants	10	10	10	10	10	10	20	Plantes
+Total	30	43	53	61	61	67	78	Total
+Brunei Darussalam / Brunéi Darussalam
+Vertebrates	49	70	75	77	80	81	82	Vertébrés
+Invertebrates	0	1	8	8	8	8	9	Invertébrés
+Plants	99	99	104	104	104	104	116	Plantes
+Total	148	170	187	189	192	193	207	Total
+Bulgaria / Bulgarie
+Vertebrates	35	39	43	42	49	50	49	Vertébrés
+Invertebrates	9	27	37	37	38	48	57	Invertébrés
+Plants	0	0	6	6	6	6	9	Plantes
+Total	44	66	86	85	93	104	115	Total
+Burkina Faso / Burkina Faso
+Vertebrates	9	20	25	25	27	27	26	Vertébrés
+Invertebrates	0	1	1	1	1	1	1	Invertébrés
+Plants	2	3	3	3	3	3	3	Plantes
+Total	11	24	29	29	31	31	30	Total
+Burundi / Burundi
+Vertebrates	22	43	46	45	44	46	46	Vertébrés
+Invertebrates	4	7	7	7	7	7	7	Invertébrés
+Plants	2	2	7	8	8	8	89	Plantes
+Total	28	52	60	60	59	61	142	Total
+Cabo Verde / Cabo Verde
+Vertebrates	21	28	35	35	49	49	51	Vertébrés
+Invertebrates	0	0	13	13	13	13	13	Invertébrés
+Plants	2	3	3	3	3	3	51	Plantes
+Total	23	31	51	51	65	65	115	Total
+Cambodia / Cambodge
+Vertebrates	72	107	128	130	137	141	145	Vertébrés
+Invertebrates	0	67	77	77	79	79	79	Invertébrés
+Plants	31	30	32	36	36	35	37	Plantes
+Total	103	204	237	243	252	255	261	Total
+Cameroon / Cameroun
+Vertebrates	146	222	236	237	255	258	263	Vertébrés
+Invertebrates	4	24	27	27	27	27	25	Invertébrés
+Plants	334	378	425	433	490	490	544	Plantes
+Total	484	624	688	697	772	775	832	Total
+Canada / Canada
+Vertebrates	62	63	69	68	79	81	86	Vertébrés
+Invertebrates	11	12	18	22	25	27	37	Invertébrés
+Plants	1	2	6	7	14	14	25	Plantes
+Total	74	77	93	97	118	122	148	Total
+Cayman Islands / Îles Caïmanes
+Vertebrates	16	21	28	38	38	41	41	Vertébrés
+Invertebrates	1	11	11	11	11	11	11	Invertébrés
+Plants	2	2	22	22	22	22	22	Plantes
+Total	19	34	61	71	71	74	74	Total
+Central African Replublic / République centrafricaine
+Vertebrates	15	19	31	32	33	36	38	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	15	17	22	22	24	24	25	Plantes
+Total	30	36	53	54	57	60	63	Total
+Chad / Tchad
+Vertebrates	18	24	29	29	31	33	36	Vertébrés
+Invertebrates	1	4	4	4	4	4	4	Invertébrés
+Plants	2	2	5	5	6	6	6	Plantes
+Total	21	30	38	38	41	43	46	Total
+Chile / Chili
+Vertebrates	83	95	98	98	111	112	132	Vertébrés
+Invertebrates	0	9	12	12	13	13	13	Invertébrés
+Plants	40	41	72	72	72	72	72	Plantes
+Total	123	145	182	182	196	197	217	Total
+China / Chine
+Vertebrates	326	374	416	420	428	430	431	Vertébrés
+Invertebrates	4	32	76	76	76	76	76	Invertébrés
+Plants	443	453	503	544	575	574	588	Plantes
+Total	773	859	995	1040	1079	1080	1095	Total
+China, Hong Kong SAR / Chine, RAS de Hong Kong
+Vertebrates	32	37	45	45	46	47	49	Vertébrés
+Invertebrates	1	6	8	8	8	8	8	Invertébrés
+Plants	6	6	6	7	9	9	8	Plantes
+Total	39	49	59	60	63	64	65	Total
+China, Macao SAR / Chine, RAS de Macao
+Vertebrates	5	9	10	10	10	10	10	Vertébrés
+Invertebrates	0	0	1	1	1	1	1	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	5	9	11	11	11	11	11	Total
+Christmas Island / Île Christmas
+Vertebrates	12	16	18	18	20	20	18	Vertébrés
+Invertebrates	0	16	18	18	18	18	19	Invertébrés
+Plants	1	1	1	1	1	1	1	Plantes
+Total	13	33	37	37	39	39	38	Total
+Cocos (Keeling) Islands / Îles des Cocos (Keeling)
+Vertebrates	5	11	12	11	12	13	13	Vertébrés
+Invertebrates	0	17	20	20	20	20	20	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	5	28	32	31	32	33	33	Total
+Colombia / Colombie
+Vertebrates	371	424	463	473	518	525	537	Vertébrés
+Invertebrates	0	30	33	33	52	52	53	Invertébrés
+Plants	222	227	245	245	257	258	261	Plantes
+Total	593	681	741	751	827	835	851	Total
+Comoros / Comores
+Vertebrates	18	21	26	26	29	33	34	Vertébrés
+Invertebrates	4	63	73	73	73	74	76	Invertébrés
+Plants	5	5	7	7	7	7	9	Plantes
+Total	27	89	106	106	109	114	119	Total
+Congo / Congo
+Vertebrates	29	61	70	71	81	82	86	Vertébrés
+Invertebrates	1	5	7	7	7	7	7	Invertébrés
+Plants	35	37	41	41	45	45	47	Plantes
+Total	65	103	118	119	133	134	140	Total
+Cook Islands / Îles Cook
+Vertebrates	22	27	30	30	31	32	32	Vertébrés
+Invertebrates	0	25	32	32	32	32	32	Invertébrés
+Plants	1	1	11	11	11	11	11	Plantes
+Total	23	53	73	73	74	75	75	Total
+Costa Rica / Costa Rica
+Vertebrates	112	142	156	162	166	169	171	Vertébrés
+Invertebrates	9	27	30	30	31	31	31	Invertébrés
+Plants	110	116	131	131	140	140	144	Plantes
+Total	231	285	317	323	337	340	346	Total
+Côte d’Ivoire / Côte d’Ivoire
+Vertebrates	61	100	113	113	127	130	133	Vertébrés
+Invertebrates	1	4	6	6	6	6	7	Invertébrés
+Plants	105	106	107	107	112	113	117	Plantes
+Total	167	210	226	226	245	249	257	Total
+Croatia / Croatie
+Vertebrates	46	77	84	84	93	94	93	Vertébrés
+Invertebrates	11	21	66	67	68	73	79	Invertébrés
+Plants	0	3	8	8	9	9	9	Plantes
+Total	57	101	158	159	170	176	181	Total
+Cuba / Cuba
+Vertebrates	106	123	133	138	138	137	146	Vertébrés
+Invertebrates	3	15	23	23	23	23	23	Invertébrés
+Plants	163	166	176	176	179	179	179	Plantes
+Total	272	304	332	337	340	339	348	Total
+Curaçao / Curaçao
+Vertebrates			29	36	36	38	38	Vertébrés
+Invertebrates			11	11	11	11	11	Invertébrés
+Plants			2	2	2	2	2	Plantes
+Total			42	49	49	51	51	Total
+Cyprus / Chypre
+Vertebrates	24	31	33	34	41	42	42	Vertébrés
+Invertebrates	0	4	7	8	12	12	15	Invertébrés
+Plants	1	8	18	18	18	18	21	Plantes
+Total	25	43	58	60	71	72	78	Total
+Czechia / Tchéquie
+Vertebrates	22	10	11	11	14	14	14	Vertébrés
+Invertebrates	19	19	25	24	24	24	29	Invertébrés
+Plants	4	4	10	10	15	15	31	Plantes
+Total	45	33	46	45	53	53	74	Total
+Dem. People’s Rep. Korea / Rép. pop. dém. de Corée
+Vertebrates	40	44	52	53	57	58	60	Vertébrés
+Invertebrates	1	2	3	3	3	3	3	Invertébrés
+Plants	3	6	8	8	17	17	17	Plantes
+Total	44	52	63	64	77	78	80	Total
+Dem. Rep. of the Congo / Rép. dém. du Congo
+Vertebrates	84	162	172	171	183	182	187	Vertébrés
+Invertebrates	22	51	53	53	53	53	55	Invertébrés
+Plants	65	83	107	109	113	114	148	Plantes
+Total	171	296	332	333	349	349	390	Total
+Denmark / Danemark
+Vertebrates	21	18	20	20	27	28	29	Vertébrés
+Invertebrates	11	12	15	15	15	15	16	Invertébrés
+Plants	3	3	1	1	4	4	4	Plantes
+Total	35	33	36	36	46	47	49	Total
+Djibouti / Djibouti
+Vertebrates	19	29	34	34	38	38	43	Vertébrés
+Invertebrates	0	50	57	57	57	57	57	Invertébrés
+Plants	2	2	3	3	3	3	3	Plantes
+Total	21	81	94	94	98	98	103	Total
+Dominica / Dominique
+Vertebrates	22	27	33	40	42	44	44	Vertébrés
+Invertebrates	0	11	11	11	11	11	11	Invertébrés
+Plants	11	10	11	11	11	11	11	Plantes
+Total	33	48	55	62	64	66	66	Total
+Dominican Republic / République dominicaine
+Vertebrates	72	80	90	95	95	126	130	Vertébrés
+Invertebrates	2	16	16	16	16	16	16	Invertébrés
+Plants	30	30	41	42	42	42	45	Plantes
+Total	104	126	147	153	153	184	191	Total
+Ecuador / Équateur
+Vertebrates	288	356	394	395	417	426	434	Vertébrés
+Invertebrates	48	62	65	65	70	70	70	Invertébrés
+Plants	1815	1837	1840	1848	1866	1862	1864	Plantes
+Total	2151	2255	2299	2308	2353	2358	2368	Total
+Egypt / Égypte
+Vertebrates	43	73	82	83	96	97	99	Vertébrés
+Invertebrates	1	46	54	55	56	56	56	Invertébrés
+Plants	2	2	3	3	3	3	8	Plantes
+Total	46	121	139	141	155	156	163	Total
+El Salvador / El Salvador
+Vertebrates	23	39	47	47	47	47	47	Vertébrés
+Invertebrates	1	6	7	7	10	10	10	Invertébrés
+Plants	25	27	29	29	29	29	30	Plantes
+Total	49	72	83	83	86	86	87	Total
+Equatorial Guinea / Guinée équatoriale
+Vertebrates	38	60	69	71	85	85	86	Vertébrés
+Invertebrates	2	2	5	5	5	5	4	Invertébrés
+Plants	61	68	77	79	88	87	95	Plantes
+Total	101	130	151	155	178	177	185	Total
+Eritrea / Érythrée
+Vertebrates	31	44	51	51	58	59	67	Vertébrés
+Invertebrates	0	50	58	58	58	58	58	Invertébrés
+Plants	3	3	4	4	4	5	5	Plantes
+Total	34	97	113	113	120	122	130	Total
+Estonia / Estonie
+Vertebrates	8	8	11	11	14	15	15	Vertébrés
+Invertebrates	4	3	6	6	6	6	7	Invertébrés
+Plants	0	0	0	0	2	2	2	Plantes
+Total	12	11	17	17	22	23	24	Total
+Eswatini / Eswatini
+Vertebrates	12	18	23	23	25	23	26	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	11	11	11	11	11	11	12	Plantes
+Total	23	29	34	34	36	34	38	Total
+Ethiopia / Éthiopie
+Vertebrates	65	79	89	89	92	90	95	Vertébrés
+Invertebrates	6	15	15	15	15	15	15	Invertébrés
+Plants	22	26	40	41	41	43	47	Plantes
+Total	93	120	144	145	148	148	157	Total
+Falkland Islands (Malvinas) / Îles Falkland (Malvinas)
+Vertebrates	21	18	18	18	18	18	17	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	5	5	5	5	5	5	5	Plantes
+Total	26	23	23	23	23	23	22	Total
+Faroe Islands / Îles Féroé
+Vertebrates	11	13	13	14	20	20	22	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	0	0	0	0	1	1	1	Plantes
+Total	11	13	13	14	21	21	23	Total
+Fiji / Fidji
+Vertebrates	33	37	48	48	52	55	55	Vertébrés
+Invertebrates	2	90	165	165	165	165	165	Invertébrés
+Plants	66	65	65	65	65	71	78	Plantes
+Total	101	192	278	278	282	291	298	Total
+Finland / Finlande
+Vertebrates	14	10	13	13	17	18	19	Vertébrés
+Invertebrates	10	7	10	10	10	10	10	Invertébrés
+Plants	1	1	2	2	8	8	8	Plantes
+Total	25	18	25	25	35	36	37	Total
+France / France
+Vertebrates	53	62	70	70	80	82	84	Vertébrés
+Invertebrates	65	91	132	133	137	153	160	Invertébrés
+Plants	2	15	32	33	43	43	55	Plantes
+Total	120	168	234	236	260	278	299	Total
+French Guiana / Guyane française
+Vertebrates	33	40	50	51	55	55	56	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	16	16	16	16	18	18	18	Plantes
+Total	49	56	66	67	73	73	74	Total
+French Polynesia / Polynésie française
+Vertebrates	46	54	63	63	63	66	66	Vertébrés
+Invertebrates	29	59	65	65	65	62	62	Invertébrés
+Plants	47	47	47	47	47	47	48	Plantes
+Total	122	160	175	175	175	175	176	Total
+French Southern Territories / Terres australes françaises
+Vertebrates	17	21	22	22	24	25	25	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	17	21	22	22	24	25	25	Total
+Gabon / Gabon
+Vertebrates	31	84	92	93	105	105	107	Vertébrés
+Invertebrates	1	0	3	3	3	3	4	Invertébrés
+Plants	107	120	132	135	162	162	172	Plantes
+Total	139	204	227	231	270	270	283	Total
+Gambia / Gambie
+Vertebrates	17	39	48	48	60	60	63	Vertébrés
+Invertebrates	0	0	2	2	2	2	2	Invertébrés
+Plants	4	4	5	5	5	5	5	Plantes
+Total	21	43	55	55	67	67	70	Total
+Georgia / Géorgie
+Vertebrates	33	37	39	38	42	43	42	Vertébrés
+Invertebrates	10	9	15	15	15	15	15	Invertébrés
+Plants	0	0	61	61	62	62	63	Plantes
+Total	43	46	115	114	119	120	120	Total
+Germany / Allemagne
+Vertebrates	35	33	35	33	39	40	40	Vertébrés
+Invertebrates	31	34	58	57	57	57	61	Invertébrés
+Plants	12	12	17	17	24	19	43	Plantes
+Total	78	79	110	107	120	116	144	Total
+Ghana / Ghana
+Vertebrates	43	83	99	99	112	114	118	Vertébrés
+Invertebrates	0	1	5	5	5	5	5	Invertébrés
+Plants	117	118	119	119	119	119	118	Plantes
+Total	160	202	223	223	236	238	241	Total
+Gibraltar / Gibraltar
+Vertebrates	16	20	20	21	28	26	28	Vertébrés
+Invertebrates	2	2	4	5	5	5	5	Invertébrés
+Plants	0	0	0	0	0	0	1	Plantes
+Total	18	22	24	26	33	31	34	Total
+Greece / Grèce
+Vertebrates	62	107	111	111	120	121	123	Vertébrés
+Invertebrates	11	36	117	122	181	192	308	Invertébrés
+Plants	2	13	58	58	60	61	71	Plantes
+Total	75	156	286	291	361	374	502	Total
+Greenland / Groenland
+Vertebrates	11	13	16	16	21	22	24	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	1	1	1	1	1	1	1	Plantes
+Total	12	14	17	17	22	23	25	Total
+Grenada / Grenade
+Vertebrates	20	24	32	38	40	41	42	Vertébrés
+Invertebrates	0	10	10	10	10	10	10	Invertébrés
+Plants	3	3	3	3	3	3	3	Plantes
+Total	23	37	45	51	53	54	55	Total
+Guadeloupe / Guadeloupe
+Vertebrates	25	30	37	45	45	48	50	Vertébrés
+Invertebrates	1	16	16	16	16	16	16	Invertébrés
+Plants	7	8	9	9	9	9	9	Plantes
+Total	33	54	62	70	70	73	75	Total
+Guam / Guam
+Vertebrates	16	24	31	31	34	35	35	Vertébrés
+Invertebrates	5	6	60	60	60	60	60	Invertébrés
+Plants	3	4	4	4	4	4	4	Plantes
+Total	24	34	95	95	98	99	99	Total
+Guatemala / Guatemala
+Vertebrates	115	140	168	176	176	176	175	Vertébrés
+Invertebrates	8	8	9	9	13	13	13	Invertébrés
+Plants	85	82	94	97	102	101	113	Plantes
+Total	208	230	271	282	291	290	301	Total
+Guernsey / Guernesey
+Vertebrates		2	2	2	5	5	5	Vertébrés
+Invertebrates		0	0	0	0	0	0	Invertébrés
+Plants		0	0	0	0	0	0	Plantes
+Total		2	2	2	5	5	5	Total
+Guinea / Guinée
+Vertebrates	42	107	122	122	132	134	138	Vertébrés
+Invertebrates	3	5	7	7	7	7	8	Invertébrés
+Plants	22	22	34	34	44	44	69	Plantes
+Total	67	134	163	163	183	185	215	Total
+Guinea-Bissau / Guinée-Bissau
+Vertebrates	17	48	59	59	69	70	73	Vertébrés
+Invertebrates	1	0	2	2	2	2	2	Invertébrés
+Plants	4	4	5	5	5	5	5	Plantes
+Total	22	52	66	66	76	77	80	Total
+Guyana / Guyana
+Vertebrates	41	46	62	63	65	67	73	Vertébrés
+Invertebrates	1	1	1	1	1	1	1	Invertébrés
+Plants	23	22	23	23	26	26	26	Plantes
+Total	65	69	86	87	92	94	100	Total
+Haiti / Haïti
+Vertebrates	86	94	106	113	113	149	153	Vertébrés
+Invertebrates	2	14	14	14	14	14	14	Invertébrés
+Plants	28	29	39	42	42	42	80	Plantes
+Total	116	137	159	169	169	205	247	Total
+Heard Is. and McDonald Is. / Île Heard et Îles MacDonald
+Vertebrates	12	12	12	12	12	12	12	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	12	12	12	12	12	12	12	Total
+Holy See / Saint-Siège
+Vertebrates		1	1	1	1	1	1	Vertébrés
+Invertebrates		0	0	0	0	0	0	Invertébrés
+Plants		0	0	0	0	0	0	Plantes
+Total		1	1	1	1	1	1	Total
+Honduras / Honduras
+Vertebrates	93	110	147	156	156	157	157	Vertébrés
+Invertebrates	2	17	18	18	21	21	21	Invertébrés
+Plants	111	113	119	120	123	123	131	Plantes
+Total	206	240	284	294	300	301	309	Total
+Hungary / Hongrie
+Vertebrates	25	20	22	22	25	26	26	Vertébrés
+Invertebrates	25	26	36	35	35	29	34	Invertébrés
+Plants	1	1	10	10	12	11	45	Plantes
+Total	51	47	68	67	72	66	105	Total
+Iceland / Islande
+Vertebrates	15	17	19	21	26	27	29	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	15	17	19	21	26	27	29	Total
+India / Inde
+Vertebrates	283	390	521	520	528	530	540	Vertébrés
+Invertebrates	23	113	135	135	135	135	135	Invertébrés
+Plants	246	255	332	384	388	387	392	Plantes
+Total	552	758	988	1039	1051	1052	1067	Total
+Indonesia / Indonésie
+Vertebrates	419	503	529	530	540	564	572	Vertébrés
+Invertebrates	31	246	288	290	290	290	287	Invertébrés
+Plants	383	393	408	426	427	427	436	Plantes
+Total	833	1142	1225	1246	1257	1281	1295	Total
+Iran (Islamic  Republic of) / Iran (Rép. islamique d’)
+Vertebrates	65	82	94	94	105	106	111	Vertébrés
+Invertebrates	3	19	24	24	24	24	24	Invertébrés
+Plants	1	1	3	3	3	4	5	Plantes
+Total	69	102	121	121	132	134	140	Total
+Iraq / Iraq
+Vertebrates	33	45	51	51	54	53	54	Vertébrés
+Invertebrates	2	15	17	17	17	17	17	Invertébrés
+Plants	0	0	1	1	1	2	2	Plantes
+Total	35	60	69	69	72	72	73	Total
+Ireland / Irlande
+Vertebrates	18	24	31	32	40	41	42	Vertébrés
+Invertebrates	3	2	6	6	6	6	6	Invertébrés
+Plants	1	1	1	1	3	3	5	Plantes
+Total	22	27	38	39	49	50	53	Total
+Isle of Man / Île de Man
+Vertebrates		2	3	3	3	3	3	Vertébrés
+Invertebrates		0	0	0	0	0	0	Invertébrés
+Plants		0	0	0	0	0	0	Plantes
+Total		2	3	3	3	3	3	Total
+Israel / Israël
+Vertebrates	47	73	78	78	89	90	91	Vertébrés
+Invertebrates	10	58	73	74	74	74	74	Invertébrés
+Plants	0	0	0	0	9	10	23	Plantes
+Total	57	131	151	152	172	174	188	Total
+Italy / Italie
+Vertebrates	53	70	76	76	85	87	89	Vertébrés
+Invertebrates	58	77	134	136	141	194	222	Invertébrés
+Plants	3	27	66	67	79	78	109	Plantes
+Total	114	174	276	279	305	359	420	Total
+Jamaica / Jamaïque
+Vertebrates	54	58	63	69	71	82	87	Vertébrés
+Invertebrates	5	15	15	15	15	15	15	Invertébrés
+Plants	208	209	214	214	214	214	214	Plantes
+Total	267	282	292	298	300	311	316	Total
+Japan / Japon
+Vertebrates	148	158	171	171	180	184	198	Vertébrés
+Invertebrates	45	157	170	170	171	171	174	Invertébrés
+Plants	12	15	21	23	46	49	50	Plantes
+Total	205	330	362	364	397	404	422	Total
+Jersey / Jersey
+Vertebrates		2	2	2	5	5	5	Vertébrés
+Invertebrates		0	1	1	1	1	1	Invertébrés
+Plants		0	0	0	0	0	0	Plantes
+Total		2	3	3	6	6	6	Total
+Jordan / Jordanie
+Vertebrates	27	41	41	40	47	47	48	Vertébrés
+Invertebrates	3	48	61	61	61	61	61	Invertébrés
+Plants	0	1	1	1	5	5	8	Plantes
+Total	30	90	103	102	113	113	117	Total
+Kazakhstan / Kazakhstan
+Vertebrates	48	53	55	55	57	59	59	Vertébrés
+Invertebrates	4	4	7	7	7	7	7	Invertébrés
+Plants	1	16	15	16	16	16	14	Plantes
+Total	53	73	77	78	80	82	80	Total
+Kenya / Kenya
+Vertebrates	99	137	157	157	162	162	169	Vertébrés
+Invertebrates	27	72	84	84	84	86	87	Invertébrés
+Plants	103	129	187	222	222	232	234	Plantes
+Total	229	338	428	463	468	480	490	Total
+Kiribati / Kiribati
+Vertebrates	10	17	19	19	21	23	23	Vertébrés
+Invertebrates	1	73	81	81	81	81	81	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	11	90	100	100	102	104	104	Total
+Kuwait / Koweït
+Vertebrates	20	28	29	29	36	36	39	Vertébrés
+Invertebrates	0	13	13	13	13	13	13	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	20	41	42	42	49	49	52	Total
+Kyrgyzstan / Kirghizistan
+Vertebrates	12	23	23	23	26	26	26	Vertébrés
+Invertebrates	3	3	4	4	4	4	4	Invertébrés
+Plants	1	14	14	14	14	14	13	Plantes
+Total	16	40	41	41	44	44	43	Total
+Lao People’s Dem. Rep. / Rép. dém. populaire lao
+Vertebrates	72	107	147	148	153	147	149	Vertébrés
+Invertebrates	0	3	21	21	21	21	21	Invertébrés
+Plants	19	22	32	41	41	41	54	Plantes
+Total	91	132	200	210	215	209	224	Total
+Latvia / Lettonie
+Vertebrates	15	9	13	13	16	17	18	Vertébrés
+Invertebrates	8	9	12	12	12	12	12	Invertébrés
+Plants	0	0	0	0	1	1	1	Plantes
+Total	23	18	25	25	29	30	31	Total
+Lebanon / Liban
+Vertebrates	25	44	47	48	58	58	57	Vertébrés
+Invertebrates	1	5	15	16	16	17	18	Invertébrés
+Plants	0	1	2	5	10	12	24	Plantes
+Total	26	50	64	69	84	87	99	Total
+Lesotho / Lesotho
+Vertebrates	11	10	10	10	11	11	13	Vertébrés
+Invertebrates	1	2	3	3	3	3	3	Invertébrés
+Plants	1	4	4	4	4	4	4	Plantes
+Total	13	16	17	17	18	18	20	Total
+Liberia / Libéria
+Vertebrates	45	91	98	98	108	109	112	Vertébrés
+Invertebrates	3	9	11	11	11	11	10	Invertébrés
+Plants	46	47	49	49	52	52	53	Plantes
+Total	94	147	158	158	171	172	175	Total
+Libya / Libye
+Vertebrates	24	42	45	49	55	56	56	Vertébrés
+Invertebrates	0	0	1	2	4	4	4	Invertébrés
+Plants	1	2	3	3	3	3	5	Plantes
+Total	25	44	49	54	62	63	65	Total
+Liechtenstein / Liechtenstein
+Vertebrates	3	0	0	0	2	2	2	Vertébrés
+Invertebrates	5	2	4	4	4	4	6	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	8	2	4	4	6	6	8	Total
+Lithuania / Lituanie
+Vertebrates	12	12	15	14	17	17	18	Vertébrés
+Invertebrates	5	5	7	7	7	7	8	Invertébrés
+Plants	0	0	1	1	2	2	2	Plantes
+Total	17	17	23	22	26	26	28	Total
+Luxembourg / Luxembourg
+Vertebrates	6	1	2	2	4	4	4	Vertébrés
+Invertebrates	4	4	7	7	7	7	7	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	10	5	9	9	11	11	11	Total
+Madagascar / Madagascar
+Vertebrates	222	283	445	446	527	543	551	Vertébrés
+Invertebrates	32	100	110	110	110	172	194	Invertébrés
+Plants	276	280	374	409	607	609	871	Plantes
+Total	530	663	929	965	1244	1324	1616	Total
+Malawi / Malawi
+Vertebrates	25	127	132	130	135	136	136	Vertébrés
+Invertebrates	11	17	16	16	16	16	14	Invertébrés
+Plants	14	14	23	25	24	24	26	Plantes
+Total	50	158	171	171	175	176	176	Total
+Malaysia / Malaisie
+Vertebrates	190	246	268	269	282	288	280	Vertébrés
+Invertebrates	19	242	262	262	262	264	265	Invertébrés
+Plants	683	692	706	721	721	720	712	Plantes
+Total	892	1180	1236	1252	1265	1272	1257	Total
+Maldives / Maldives
+Vertebrates	12	20	23	23	29	29	29	Vertébrés
+Invertebrates	0	39	46	46	46	46	46	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	12	59	69	69	75	75	75	Total
+Mali / Mali
+Vertebrates	19	23	31	31	34	34	35	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	6	6	8	8	8	8	11	Plantes
+Total	25	29	39	39	42	42	46	Total
+Malta / Malte
+Vertebrates	22	20	23	23	30	30	30	Vertébrés
+Invertebrates	3	3	4	4	5	5	5	Invertébrés
+Plants	0	3	4	4	4	4	4	Plantes
+Total	25	26	31	31	39	39	39	Total
+Marshall Islands / Îles Marshall
+Vertebrates	12	17	22	22	25	28	28	Vertébrés
+Invertebrates	1	67	73	73	73	73	73	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	13	84	95	95	98	101	101	Total
+Martinique / Martinique
+Vertebrates	20	22	28	34	33	37	37	Vertébrés
+Invertebrates	1	1	2	2	2	2	2	Invertébrés
+Plants	8	8	9	9	9	9	9	Plantes
+Total	29	31	39	45	44	48	48	Total
+Mauritania / Mauritanie
+Vertebrates	25	57	66	66	80	83	85	Vertébrés
+Invertebrates	1	1	3	3	3	3	3	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	26	58	69	69	83	86	88	Total
+Mauritius / Maurice
+Vertebrates	28	36	41	41	45	47	48	Vertébrés
+Invertebrates	32	98	118	118	118	120	120	Invertébrés
+Plants	87	88	91	90	90	90	91	Plantes
+Total	147	222	250	249	253	257	259	Total
+Mayotte / Mayotte
+Vertebrates	6	9	15	15	18	18	19	Vertébrés
+Invertebrates	1	60	69	69	69	70	70	Invertébrés
+Plants	0	0	0	0	0	0	3	Plantes
+Total	7	69	84	84	87	88	92	Total
+Mexico / Mexique
+Vertebrates	446	609	628	639	648	655	657	Vertébrés
+Invertebrates	41	79	92	93	102	106	106	Invertébrés
+Plants	261	255	371	377	402	401	450	Plantes
+Total	748	943	1091	1109	1152	1162	1213	Total
+Micronesia (Fed. States of) / Micronésie (États féd. de)
+Vertebrates	22	35	43	44	48	49	50	Vertébrés
+Invertebrates	4	108	115	115	115	114	114	Invertébrés
+Plants	4	5	5	4	4	4	4	Plantes
+Total	30	148	163	163	167	167	168	Total
+Monaco / Monaco
+Vertebrates	9	11	13	13	17	18	18	Vertébrés
+Invertebrates	0	0	2	3	3	3	3	Invertébrés
+Plants	0	0	0	0	0	0	1	Plantes
+Total	9	11	15	16	20	21	22	Total
+Mongolia / Mongolie
+Vertebrates	36	33	33	33	37	38	37	Vertébrés
+Invertebrates	3	3	3	3	3	3	3	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	39	36	36	36	40	41	40	Total
+Montenegro / Monténégro
+Vertebrates		44	47	49	57	57	56	Vertébrés
+Invertebrates		28	34	34	35	39	42	Invertébrés
+Plants		0	2	2	2	2	3	Plantes
+Total		72	83	85	94	98	101	Total
+Montserrat / Montserrat
+Vertebrates	18	21	29	37	36	38	39	Vertébrés
+Invertebrates	0	11	11	11	11	11	11	Invertébrés
+Plants	3	3	5	6	6	6	6	Plantes
+Total	21	35	45	54	53	55	56	Total
+Morocco / Maroc
+Vertebrates	40	86	89	90	101	103	105	Vertébrés
+Invertebrates	8	40	46	52	60	66	69	Invertébrés
+Plants	2	31	34	34	38	38	49	Plantes
+Total	50	157	169	176	199	207	223	Total
+Mozambique / Mozambique
+Vertebrates	64	98	117	117	127	129	132	Vertébrés
+Invertebrates	5	59	67	67	67	67	67	Invertébrés
+Plants	46	52	77	84	84	113	122	Plantes
+Total	115	209	261	268	278	309	321	Total
+Myanmar / Myanmar
+Vertebrates	107	143	161	163	178	183	187	Vertébrés
+Invertebrates	2	64	77	77	77	77	77	Invertébrés
+Plants	38	42	47	61	61	61	61	Plantes
+Total	147	249	285	301	316	321	325	Total
+Namibia / Namibie
+Vertebrates	44	66	74	73	81	84	85	Vertébrés
+Invertebrates	1	0	4	4	4	4	4	Invertébrés
+Plants	24	26	27	28	28	27	27	Plantes
+Total	69	92	105	105	113	115	116	Total
+Nauru / Nauru
+Vertebrates	5	12	12	12	14	14	14	Vertébrés
+Invertebrates	0	62	68	68	68	68	68	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	5	74	80	80	82	82	82	Total
+Nepal / Népal
+Vertebrates	69	83	85	85	87	84	84	Vertébrés
+Invertebrates	1	3	3	3	3	3	3	Invertébrés
+Plants	7	7	12	17	17	17	17	Plantes
+Total	77	93	100	105	107	104	104	Total
+Netherlands / Pays-Bas
+Vertebrates	27	18	20	19	26	27	28	Vertébrés
+Invertebrates	7	6	10	10	10	10	11	Invertébrés
+Plants	0	0	0	0	3	3	4	Plantes
+Total	34	24	30	29	39	40	43	Total
+Netherlands Antilles [former] / Antilles néerlandaises [anc.]
+Vertebrates	26	24						Vertébrés
+Invertebrates	0	11						Invertébrés
+Plants	2	3						Plantes
+Total	28	38						Total
+New Caledonia / Nouvelle-Calédonie
+Vertebrates	34	61	109	109	114	116	117	Vertébrés
+Invertebrates	11	97	125	125	125	125	125	Invertébrés
+Plants	217	257	259	259	286	285	350	Plantes
+Total	262	415	493	493	525	526	592	Total
+New Zealand / Nouvelle-Zélande
+Vertebrates	114	117	130	130	128	130	131	Vertébrés
+Invertebrates	14	15	46	46	46	46	61	Invertébrés
+Plants	21	21	21	21	23	23	24	Plantes
+Total	149	153	197	197	197	199	216	Total
+Nicaragua / Nicaragua
+Vertebrates	49	61	73	79	78	78	79	Vertébrés
+Invertebrates	2	17	18	18	20	20	20	Invertébrés
+Plants	39	43	43	44	46	46	50	Plantes
+Total	90	121	134	141	144	144	149	Total
+Niger / Niger
+Vertebrates	12	22	27	27	29	30	32	Vertébrés
+Invertebrates	1	2	1	1	1	1	1	Invertébrés
+Plants	2	2	3	3	3	3	3	Plantes
+Total	15	26	31	31	33	34	36	Total
+Nigeria / Nigéria
+Vertebrates	61	113	127	127	145	148	148	Vertébrés
+Invertebrates	1	12	17	17	17	17	13	Invertébrés
+Plants	170	172	188	189	197	196	203	Plantes
+Total	232	297	332	333	359	361	364	Total
+Niue / Nioué
+Vertebrates	12	20	20	20	22	22	22	Vertébrés
+Invertebrates	0	23	30	30	30	30	30	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	12	43	50	50	52	52	52	Total
+Norfolk Island / Île Norfolk
+Vertebrates	21	19	17	17	18	19	19	Vertébrés
+Invertebrates	12	21	23	23	23	23	23	Invertébrés
+Plants	1	1	1	1	1	2	2	Plantes
+Total	34	41	41	41	42	44	44	Total
+Northern Mariana Islands / Îles Mariannes du Nord
+Vertebrates	22	29	37	37	39	40	40	Vertébrés
+Invertebrates	2	51	57	57	57	57	NC	Invertébrés
+Plants	4	5	5	5	5	5	5	Plantes
+Total	28	85	99	99	101	102	102	Total
+Norway / Norvège
+Vertebrates	22	27	30	30	38	40	42	Vertébrés
+Invertebrates	9	7	10	10	10	10	10	Invertébrés
+Plants	2	2	3	4	14	14	21	Plantes
+Total	33	36	43	44	62	64	73	Total
+Oman / Oman
+Vertebrates	48	47	54	53	62	62	68	Vertébrés
+Invertebrates	1	26	31	31	31	31	31	Invertébrés
+Plants	6	6	6	6	6	6	6	Plantes
+Total	55	79	91	90	99	99	105	Total
+Other non-specified areas / Autres zones non-spécifiées
+Vertebrates	79	104	115	114	123	123	129	Vertébrés
+Invertebrates	0	122	128	128	128	128	128	Invertébrés
+Plants	78	78	82	83	85	86	85	Plantes
+Total	157	304	325	325	336	337	342	Total
+Pakistan / Pakistan
+Vertebrates	70	92	100	99	110	110	115	Vertébrés
+Invertebrates	0	15	18	18	18	18	18	Invertébrés
+Plants	2	2	5	12	12	12	12	Plantes
+Total	72	109	123	129	140	140	145	Total
+Palau / Palaos
+Vertebrates	13	22	27	27	31	32	34	Vertébrés
+Invertebrates	5	102	146	146	146	146	146	Invertébrés
+Plants	3	4	4	4	4	4	4	Plantes
+Total	21	128	177	177	181	182	184	Total
+Panama / Panama
+Vertebrates	113	125	138	148	151	153	154	Vertébrés
+Invertebrates	2	20	22	22	22	22	22	Invertébrés
+Plants	195	202	203	203	208	208	211	Plantes
+Total	310	347	363	373	381	383	387	Total
+Papua New Guinea / Papouasie-Nvl-Guinée
+Vertebrates	141	139	145	146	155	160	161	Vertébrés
+Invertebrates	12	171	181	181	181	181	180	Invertébrés
+Plants	142	143	145	151	152	152	158	Plantes
+Total	295	453	471	478	488	493	499	Total
+Paraguay / Paraguay
+Vertebrates	40	38	39	39	40	40	43	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	10	10	19	19	19	19	19	Plantes
+Total	50	48	58	58	59	59	62	Total
+Peru / Pérou
+Vertebrates	232	274	316	317	351	351	377	Vertébrés
+Invertebrates	2	3	8	8	8	8	8	Invertébrés
+Plants	274	274	318	318	334	326	328	Plantes
+Total	508	551	642	643	693	685	713	Total
+Philippines / Philippines
+Vertebrates	225	262	291	291	302	306	302	Vertébrés
+Invertebrates	19	213	237	237	237	238	238	Invertébrés
+Plants	212	222	233	239	239	239	245	Plantes
+Total	456	697	761	767	778	783	785	Total
+Pitcairn / Pitcairn
+Vertebrates	15	20	20	20	21	21	21	Vertébrés
+Invertebrates	5	15	16	16	16	16	16	Invertébrés
+Plants	7	7	7	7	7	7	7	Plantes
+Total	27	42	43	43	44	44	44	Total
+Poland / Pologne
+Vertebrates	27	17	20	19	23	23	24	Vertébrés
+Invertebrates	15	16	23	22	22	22	28	Invertébrés
+Plants	4	4	10	10	13	13	14	Plantes
+Total	46	37	53	51	58	58	66	Total
+Portugal / Portugal
+Vertebrates	51	71	79	81	92	94	98	Vertébrés
+Invertebrates	82	79	94	94	97	103	197	Invertébrés
+Plants	15	21	81	81	83	84	104	Plantes
+Total	148	171	254	256	272	281	399	Total
+Puerto Rico / Porto Rico
+Vertebrates	44	49	62	70	69	69	72	Vertébrés
+Invertebrates	1	1	0	0	0	0	0	Invertébrés
+Plants	52	53	57	57	57	57	63	Plantes
+Total	97	103	119	127	126	126	135	Total
+Qatar / Qatar
+Vertebrates	12	19	22	22	26	26	32	Vertébrés
+Invertebrates	0	13	13	13	13	13	13	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	12	32	35	35	39	39	45	Total
+Republic of Korea / République de Corée
+Vertebrates	54	58	64	65	72	74	78	Vertébrés
+Invertebrates	1	3	4	4	5	5	8	Invertébrés
+Plants	0	3	7	7	32	32	32	Plantes
+Total	55	64	75	76	109	111	118	Total
+Republic of Moldova / République de Moldova
+Vertebrates	22	24	22	22	26	27	26	Vertébrés
+Invertebrates	5	3	5	5	5	6	6	Invertébrés
+Plants	0	0	2	2	2	2	2	Plantes
+Total	27	27	29	29	33	35	34	Total
+Réunion / Réunion
+Vertebrates	18	16	22	22	24	24	24	Vertébrés
+Invertebrates	16	73	87	87	87	89	89	Invertébrés
+Plants	14	15	17	17	17	17	18	Plantes
+Total	48	104	126	126	128	130	131	Total
+Romania / Roumanie
+Vertebrates	40	39	43	42	49	50	50	Vertébrés
+Invertebrates	22	24	39	38	38	49	68	Invertébrés
+Plants	1	1	5	5	5	5	7	Plantes
+Total	63	64	87	85	92	104	125	Total
+Russian Federation / Fédération de Russie
+Vertebrates	114	93	126	126	134	136	139	Vertébrés
+Invertebrates	30	25	37	36	36	39	39	Invertébrés
+Plants	7	8	54	55	60	60	60	Plantes
+Total	151	126	217	217	230	235	238	Total
+Rwanda / Rwanda
+Vertebrates	30	49	53	51	51	50	52	Vertébrés
+Invertebrates	4	2	2	2	2	4	4	Invertébrés
+Plants	3	4	6	8	8	8	41	Plantes
+Total	37	55	61	61	61	62	97	Total
+Saint Barthélemy / Saint-Barthélemy
+Vertebrates		4	7	16	18	18	19	Vertébrés
+Invertebrates		11	11	11	11	11	11	Invertébrés
+Plants		2	2	2	2	2	2	Plantes
+Total		17	20	29	31	31	32	Total
+Saint Helena / Sainte-Hélène
+Vertebrates	32	31	37	37	39	41	41	Vertébrés
+Invertebrates	2	2	13	13	15	15	33	Invertébrés
+Plants	26	27	30	30	44	44	44	Plantes
+Total	60	60	80	80	98	100	118	Total
+Saint Kitts and Nevis / Saint-Kitts-et-Nevis
+Vertebrates	17	24	32	39	39	40	40	Vertébrés
+Invertebrates	0	10	10	10	10	10	10	Invertébrés
+Plants	2	2	2	2	2	2	2	Plantes
+Total	19	36	44	51	51	52	52	Total
+Saint Lucia / Sainte-Lucie
+Vertebrates	23	29	35	41	43	45	45	Vertébrés
+Invertebrates	0	11	11	11	11	11	11	Invertébrés
+Plants	6	6	6	6	6	6	6	Plantes
+Total	29	46	52	58	60	62	62	Total
+Saint Martin (French part) / St-Martin (partie française)
+Vertebrates		4	30	38	37	39	40	Vertébrés
+Invertebrates		11	10	10	10	10	10	Invertébrés
+Plants		2	3	3	3	3	3	Plantes
+Total		17	43	51	50	52	53	Total
+Saint Pierre and Miquelon / Saint-Pierre-et-Miquelon
+Vertebrates	2	4	7	7	11	12	14	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	2	4	7	7	11	12	14	Total
+Saint Vincent & Grenadines / Saint-Vincent-Grenadines
+Vertebrates	20	24	33	39	41	43	44	Vertébrés
+Invertebrates	0	10	10	10	10	10	10	Invertébrés
+Plants	4	4	5	5	5	5	5	Plantes
+Total	24	38	48	54	56	58	59	Total
+Samoa / Samoa
+Vertebrates	15	23	26	26	29	29	29	Vertébrés
+Invertebrates	1	53	62	62	62	62	62	Invertébrés
+Plants	2	2	2	2	2	2	2	Plantes
+Total	18	78	90	90	93	93	93	Total
+San Marino / Saint-Marin
+Vertebrates		0	0	0	0	0	0	Vertébrés
+Invertebrates		0	1	1	1	1	1	Invertébrés
+Plants		0	0	0	0	0	0	Plantes
+Total		0	1	1	1	1	1	Total
+Sao Tome and Principe / Sao Tomé-et-Principe
+Vertebrates	24	33	38	38	51	52	51	Vertébrés
+Invertebrates	2	2	5	5	5	5	4	Invertébrés
+Plants	35	35	38	38	38	37	49	Plantes
+Total	61	70	81	81	94	94	104	Total
+Saudi Arabia / Arabie saoudite
+Vertebrates	37	47	54	57	66	68	69	Vertébrés
+Invertebrates	1	53	59	59	59	59	59	Invertébrés
+Plants	3	3	3	3	3	4	4	Plantes
+Total	41	103	116	119	128	131	132	Total
+Senegal / Sénégal
+Vertebrates	40	72	83	82	95	98	101	Vertébrés
+Invertebrates	0	1	13	13	13	13	13	Invertébrés
+Plants	7	9	11	11	12	12	13	Plantes
+Total	47	82	107	106	120	123	127	Total
+Serbia / Serbie
+Vertebrates		29	29	29	35	35	35	Vertébrés
+Invertebrates		16	23	22	24	30	35	Invertébrés
+Plants		1	5	5	6	6	7	Plantes
+Total		46	57	56	65	71	77	Total
+Serbia and Monten. [former] / Serbie-et-Monténégro [anc.]
+Vertebrates	42							Vertébrés
+Invertebrates	19							Invertébrés
+Plants	1							Plantes
+Total	62							Total
+Seychelles / Seychelles
+Vertebrates	35	45	54	54	55	57	58	Vertébrés
+Invertebrates	4	100	319	319	319	320	320	Invertébrés
+Plants	45	45	62	62	62	62	61	Plantes
+Total	84	190	435	435	436	439	439	Total
+Sierra Leone / Sierra Leone
+Vertebrates	35	77	90	92	103	103	105	Vertébrés
+Invertebrates	4	6	8	8	8	8	8	Invertébrés
+Plants	47	48	58	58	65	66	71	Plantes
+Total	86	131	156	158	176	177	184	Total
+Singapore / Singapour
+Vertebrates	30	58	56	56	63	63	67	Vertébrés
+Invertebrates	1	162	173	173	173	173	173	Invertébrés
+Plants	54	57	58	58	58	57	60	Plantes
+Total	85	277	287	287	294	293	300	Total
+Sint Maarten (Dutch part) / St-Martin (partie néerland.)
+Vertebrates			29	37	37	39	40	Vertébrés
+Invertebrates			10	10	10	10	10	Invertébrés
+Plants			2	2	2	2	3	Plantes
+Total			41	49	49	51	53	Total
+Slovakia / Slovaquie
+Vertebrates	27	15	16	16	19	20	21	Vertébrés
+Invertebrates	19	17	23	22	22	24	32	Invertébrés
+Plants	2	2	7	7	10	10	28	Plantes
+Total	48	34	46	45	51	54	81	Total
+Slovenia / Slovénie
+Vertebrates	32	36	41	42	50	51	53	Vertébrés
+Invertebrates	42	59	75	76	77	81	83	Invertébrés
+Plants	0	0	7	7	11	11	11	Plantes
+Total	74	95	123	125	138	143	147	Total
+Solomon Islands / Îles Salomon
+Vertebrates	52	63	70	70	75	77	75	Vertébrés
+Invertebrates	6	141	151	151	151	151	151	Invertébrés
+Plants	16	16	17	17	17	17	16	Plantes
+Total	74	220	238	238	243	245	242	Total
+Somalia / Somalie
+Vertebrates	46	56	62	60	66	67	71	Vertébrés
+Invertebrates	1	51	62	62	62	62	62	Invertébrés
+Plants	17	21	42	43	43	46	46	Plantes
+Total	64	128	166	165	171	175	179	Total
+South Africa / Afrique du Sud
+Vertebrates	155	185	210	209	219	233	248	Vertébrés
+Invertebrates	127	159	202	202	202	202	208	Invertébrés
+Plants	75	97	116	116	116	146	151	Plantes
+Total	357	441	528	527	537	581	607	Total
+South Georgia & Sandwich Is. / Géorgie	 du S. - Îles Sandwich
+Vertebrates	12	10	9	9	9	9	9	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	12	10	9	9	9	9	9	Total
+South Sudan / Soudan du sud
+Vertebrates			27	26	30	34	36	Vertébrés
+Invertebrates			0	0	0	0	1	Invertébrés
+Plants			15	16	15	15	16	Plantes
+Total			42	42	45	49	53	Total
+Spain / Espagne
+Vertebrates	76	118	122	123	135	138	142	Vertébrés
+Invertebrates	63	67	216	215	236	258	288	Invertébrés
+Plants	14	55	214	213	221	221	251	Plantes
+Total	153	240	552	551	592	617	681	Total
+Sri Lanka / Sri Lanka
+Vertebrates	112	149	159	159	167	167	172	Vertébrés
+Invertebrates	2	120	130	130	130	130	130	Invertébrés
+Plants	280	283	287	291	291	290	294	Plantes
+Total	394	552	576	580	588	587	596	Total
+State of Palestine / État de Palestine
+Vertebrates	4	16	18	20	23	24	26	Vertébrés
+Invertebrates	0	2	4	4	4	4	4	Invertébrés
+Plants	0	0	0	0	3	3	6	Plantes
+Total	4	18	22	24	30	31	36	Total
+Sudan / Soudan
+Vertebrates	36	49	56	57	63	67	73	Vertébrés
+Invertebrates	2	45	50	50	50	50	50	Invertébrés
+Plants	17	18	16	16	16	16	17	Plantes
+Total	55	112	122	123	129	133	140	Total
+Suriname / Suriname
+Vertebrates	32	38	48	49	55	55	57	Vertébrés
+Invertebrates	0	1	1	1	1	1	1	Invertébrés
+Plants	27	26	26	26	27	27	27	Plantes
+Total	59	65	75	76	83	83	85	Total
+Svalbard and Jan Mayen Is. / Îles Svalbard-et-Jan Mayen
+Vertebrates	9	3	5	5	7	7	9	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	9	3	5	5	7	7	9	Total
+Sweden / Suède
+Vertebrates	20	15	17	16	24	25	27	Vertébrés
+Invertebrates	13	11	15	15	15	15	16	Invertébrés
+Plants	3	3	4	5	14	14	15	Plantes
+Total	36	29	36	36	53	54	58	Total
+Switzerland / Suisse
+Vertebrates	17	14	15	15	18	20	22	Vertébrés
+Invertebrates	30	28	43	43	43	44	47	Invertébrés
+Plants	2	3	4	4	10	10	10	Plantes
+Total	49	45	62	62	71	74	79	Total
+Syrian Arab Republic / République arabe syrienne
+Vertebrates	26	68	84	84	94	94	91	Vertébrés
+Invertebrates	3	7	19	20	20	20	22	Invertébrés
+Plants	0	3	4	4	13	18	26	Plantes
+Total	29	78	107	108	127	132	139	Total
+Tajikistan / Tadjikistan
+Vertebrates	20	24	27	26	29	30	32	Vertébrés
+Invertebrates	2	2	3	3	3	3	3	Invertébrés
+Plants	2	14	12	12	12	12	12	Plantes
+Total	24	40	42	41	44	45	47	Total
+Thailand / Thaïlande
+Vertebrates	136	201	233	234	245	248	255	Vertébrés
+Invertebrates	1	185	211	211	211	211	211	Invertébrés
+Plants	84	91	133	150	150	152	155	Plantes
+Total	221	477	577	595	606	611	621	Total
+TFYR of Macedonia / ex-R.Y. de Macédoine
+Vertebrates	24	31	31	31	34	35	34	Vertébrés
+Invertebrates	5	59	69	69	70	75	86	Invertébrés
+Plants	0	0	0	0	0	0	5	Plantes
+Total	29	90	100	100	104	110	125	Total
+Timor-Leste / Timor-Leste
+Vertebrates	11	18	19	19	20	22	24	Vertébrés
+Invertebrates	0	0	1	1	1	1	1	Invertébrés
+Plants	0	0	1	1	1	1	1	Plantes
+Total	11	18	21	21	22	24	26	Total
+Togo / Togo
+Vertebrates	22	43	50	51	63	65	70	Vertébrés
+Invertebrates	0	1	3	3	3	3	3	Invertébrés
+Plants	10	10	12	12	12	12	12	Plantes
+Total	32	54	65	66	78	80	85	Total
+Tokelau / Tokélaou
+Vertebrates	6	10	11	11	14	14	14	Vertébrés
+Invertebrates	0	31	35	35	35	35	35	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	6	41	46	46	49	49	49	Total
+Tonga / Tonga
+Vertebrates	11	19	23	23	26	28	28	Vertébrés
+Invertebrates	2	35	47	47	47	47	47	Invertébrés
+Plants	3	4	4	4	4	4	5	Plantes
+Total	16	58	74	74	77	79	80	Total
+Trinidad and Tobago / Trinité-et-Tobago
+Vertebrates	32	37	45	53	56	57	58	Vertébrés
+Invertebrates	0	10	10	10	10	10	10	Invertébrés
+Plants	1	1	2	2	2	2	50	Plantes
+Total	33	48	57	65	68	69	118	Total
+Tunisia / Tunisie
+Vertebrates	31	57	61	61	70	70	71	Vertébrés
+Invertebrates	5	11	14	15	17	19	20	Invertébrés
+Plants	0	7	7	7	7	7	10	Plantes
+Total	36	75	82	83	94	96	101	Total
+Turkey / Turquie
+Vertebrates	76	130	191	191	199	199	201	Vertébrés
+Invertebrates	13	15	70	76	78	82	85	Invertébrés
+Plants	3	5	103	103	105	107	114	Plantes
+Total	92	150	364	370	382	388	400	Total
+Turkmenistan / Turkménistan
+Vertebrates	35	37	38	38	42	43	46	Vertébrés
+Invertebrates	5	5	7	7	7	7	7	Invertébrés
+Plants	0	3	4	4	4	4	4	Plantes
+Total	40	45	49	49	53	54	57	Total
+Turks and Caicos Islands / Îles Turques-et-Caïques
+Vertebrates	18	22	29	37	37	41	42	Vertébrés
+Invertebrates	0	10	10	10	10	10	10	Invertébrés
+Plants	2	2	9	9	9	9	9	Plantes
+Total	20	34	48	56	56	60	61	Total
+Tuvalu / Tuvalu
+Vertebrates	7	14	15	15	17	18	18	Vertébrés
+Invertebrates	1	71	78	78	78	78	78	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	8	85	93	93	95	96	96	Total
+Uganda / Ouganda
+Vertebrates	77	110	121	117	116	119	124	Vertébrés
+Invertebrates	19	15	19	19	19	24	30	Invertébrés
+Plants	38	41	49	52	52	53	64	Plantes
+Total	134	166	189	188	187	196	218	Total
+Ukraine / Ukraine
+Vertebrates	40	45	48	47	52	53	53	Vertébrés
+Invertebrates	14	15	24	23	23	31	38	Invertébrés
+Plants	1	1	16	17	19	18	23	Plantes
+Total	55	61	88	87	94	102	114	Total
+United Arab Emirates / Émirats arabes unis
+Vertebrates	23	32	34	33	41	41	45	Vertébrés
+Invertebrates	0	16	15	15	15	15	15	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	23	48	49	48	56	56	60	Total
+United Kingdom / Royaume-Uni
+Vertebrates	32	48	53	53	61	62	64	Vertébrés
+Invertebrates	10	11	17	18	18	18	19	Invertébrés
+Plants	13	14	15	16	22	22	48	Plantes
+Total	55	73	85	87	101	102	131	Total
+United Rep. of Tanzania / Rép.-Unie de Tanzanie
+Vertebrates	144	313	346	346	355	355	360	Vertébrés
+Invertebrates	33	80	129	129	129	125	129	Invertébrés
+Plants	239	298	504	602	602	602	632	Plantes
+Total	416	691	979	1077	1086	1082	1121	Total
+U.S. Minor Outlying islands / Îles min. éloignées des É-U
+Vertebrates	15	23	24	24	25	26	26	Vertébrés
+Invertebrates	0	44	47	47	47	47	47	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	15	67	71	71	72	73	73	Total
+United States of America / États-Unis d’Amérique
+Vertebrates	342	376	438	444	454	456	462	Vertébrés
+Invertebrates	561	531	570	575	578	580	580	Invertébrés
+Plants	240	245	279	280	447	477	498	Plantes
+Total	1143	1152	1287	1299	1479	1513	1540	Total
+United States Virgin Islands / Îles Vierges américaines
+Vertebrates	22	21	32	41	42	46	46	Vertébrés
+Invertebrates	0	0	0	0	0	0	0	Invertébrés
+Plants	9	12	12	12	12	12	17	Plantes
+Total	31	33	44	53	54	58	63	Total
+Uruguay / Uruguay
+Vertebrates	48	78	79	79	82	82	85	Vertébrés
+Invertebrates	1	1	2	2	2	2	2	Invertébrés
+Plants	1	1	22	22	22	22	22	Plantes
+Total	50	80	103	103	106	106	109	Total
+Uzbekistan / Ouzbékistan
+Vertebrates	29	34	35	34	39	39	43	Vertébrés
+Invertebrates	1	1	3	3	3	3	3	Invertébrés
+Plants	1	15	17	17	17	17	16	Plantes
+Total	31	50	55	54	59	59	62	Total
+Vanuatu / Vanuatu
+Vertebrates	19	32	35	35	37	36	38	Vertébrés
+Invertebrates	0	79	92	92	92	91	91	Invertébrés
+Plants	10	10	10	10	10	10	10	Plantes
+Total	29	121	137	137	139	137	139	Total
+Venezuela (Boliv. Rep. of) / Venezuela (Rép. boliv. du)
+Vertebrates	151	179	202	209	212	220	228	Vertébrés
+Invertebrates	1	21	26	26	26	26	26	Invertébrés
+Plants	67	70	77	77	82	82	81	Plantes
+Total	219	270	305	312	320	328	335	Total
+Viet Nam / Viet Nam
+Vertebrates	144	186	235	239	260	260	278	Vertébrés
+Invertebrates	0	92	126	127	152	152	152	Invertébrés
+Plants	145	146	177	199	204	204	231	Plantes
+Total	289	424	538	565	616	616	661	Total
+Wallis and Futuna Islands / Îles Wallis-et-Futuna
+Vertebrates	12	16	22	22	24	24	24	Vertébrés
+Invertebrates	0	57	65	65	65	64	64	Invertébrés
+Plants	1	1	1	1	1	1	1	Plantes
+Total	13	74	88	88	90	89	89	Total
+Western Sahara / Sahara occidental
+Vertebrates	18	38	37	36	44	46	48	Vertébrés
+Invertebrates	1	1	3	3	3	3	3	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	19	39	40	39	47	49	51	Total
+Yemen / Yémen
+Vertebrates	34	48	55	57	67	68	72	Vertébrés
+Invertebrates	2	62	68	68	68	68	68	Invertébrés
+Plants	159	159	162	162	162	162	163	Plantes
+Total	195	269	285	287	297	298	303	Total
+Zambia / Zambie
+Vertebrates	24	44	51	49	51	53	54	Vertébrés
+Invertebrates	7	14	14	14	14	14	15	Invertébrés
+Plants	8	9	14	20	20	21	22	Plantes
+Total	39	67	79	83	85	88	91	Total
+Zimbabwe / Zimbabwe
+Vertebrates	24	34	38	38	39	41	42	Vertébrés
+Invertebrates	2	5	5	5	5	5	7	Invertébrés
+Plants	17	16	17	17	17	43	46	Plantes
+Total	43	55	60	60	61	89	95	Total
+Areas n.e.s / Zones n.s.a
+Vertebrates	1	1	1	1	3	3	5	Vertébrés
+Invertebrates	0	0	1	1	1	1	1	Invertébrés
+Plants	0	0	0	0	0	0	0	Plantes
+Total	1	1	2	2	4	4	6	Total
+Whole world / Monde entier						
+Vertebrates	12341	16207	18593	18911	20338	20755	21302	
+Invertebrates	2585	8031	10214	10254	10466	10758	11196	
+Plants	10729	11412	13766	14249	15190	15336	16793
+Total	25655	35650	42573	43414	45994	46849	49348	
