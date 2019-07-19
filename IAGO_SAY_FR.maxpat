@@ -1477,7 +1477,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 575.5, 601.861678004535634, 163.0, 22.0 ],
+					"patching_rect" : [ 575.5, 646.861678004535634, 163.0, 22.0 ],
 					"text" : "prepend say -v Aurelie -r 120"
 				}
 
@@ -2350,7 +2350,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 424.5, 258.361678004535634, 651.0, 22.0 ],
-					"text" : "say -v Aurelie -r 200 \"jai un doute important... cètt important... oh ! très important \""
+					"text" : "say -v Aurelie -r 200 \"nées \""
 				}
 
 			}
@@ -2560,8 +2560,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 270.0, 229.0, 149.0, 49.0 ],
-									"text" : "pipe 500"
+									"patching_rect" : [ 270.0, 229.0, 127.0, 49.0 ],
+									"text" : "pipe 10"
 								}
 
 							}
@@ -3414,7 +3414,7 @@
 			}
 , 			{
 				"name" : "iagoSayFr.maxpat",
-				"bootpath" : "~/Documents/GitHub/IAGOTCHI_G5",
+				"bootpath" : "~/Documents/workspace/IAGOTCHI_G5",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
