@@ -545,8 +545,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -916,8 +916,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -1451,8 +1451,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -1646,8 +1646,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -2220,8 +2220,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -3442,8 +3442,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -4000,8 +4000,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -5903,8 +5903,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -5943,7 +5943,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 3.0, 71.0, 1198.0, 313.0 ],
+						"rect" : [ 0.0, 26.0, 1198.0, 313.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -6171,8 +6171,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -6540,8 +6540,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -8514,8 +8514,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -8814,8 +8814,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -9017,8 +9017,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -11910,8 +11910,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -12114,8 +12114,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -12735,8 +12735,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -12939,8 +12939,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -13385,8 +13385,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -13820,8 +13820,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -15435,8 +15435,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -16590,8 +16590,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -17873,8 +17873,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -18212,8 +18212,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -18879,8 +18879,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -19814,8 +19814,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -20122,8 +20122,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -21375,8 +21375,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -21908,8 +21908,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -22528,8 +22528,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -23086,8 +23086,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -24724,8 +24724,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -24986,8 +24986,8 @@
 , 			{
 				"name" : "arialbold",
 				"default" : 				{
-					"fontname" : [ "Arial Bold" ],
-					"fontsize" : [ 10.0 ]
+					"fontsize" : [ 10.0 ],
+					"fontname" : [ "Arial Bold" ]
 				}
 ,
 				"parentstyle" : "",
