@@ -2315,7 +2315,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 818.0, 211.0, 50.0, 22.0 ],
-									"text" : "de"
+									"text" : "pas"
 								}
 
 							}
@@ -5159,7 +5159,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 38.0, 409.400023999999974, 311.0, 31.0 ]
+													"patching_rect" : [ 38.0, 409.400023999999974, 311.0, 31.0 ],
+													"text" : "Oenothera"
 												}
 
 											}
@@ -5171,7 +5172,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 453.300048999999944, 356.300049000000001, 50.0, 22.0 ]
+													"patching_rect" : [ 453.300048999999944, 356.300049000000001, 50.0, 22.0 ],
+													"text" : "2/2"
 												}
 
 											}
@@ -5218,7 +5220,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 38.0, 344.500061000000017, 320.0, 20.0 ]
+													"patching_rect" : [ 38.0, 344.500061000000017, 320.0, 20.0 ],
+													"text" : "https://static.inaturalist.org/photos/1198375/medium.jpg?1444606727"
 												}
 
 											}
@@ -5242,7 +5245,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 38.0, 285.100098000000003, 246.0, 31.0 ]
+													"patching_rect" : [ 38.0, 285.100098000000003, 246.0, 31.0 ],
+													"text" : "tard"
 												}
 
 											}
@@ -5596,7 +5600,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 511.300048999999944, 361.550018999999963, 52.0, 22.0 ]
+													"patching_rect" : [ 511.300048999999944, 361.550018999999963, 52.0, 22.0 ],
+													"text" : "28/75"
 												}
 
 											}
@@ -5639,11 +5644,13 @@
 													"dontreplace" : 1,
 													"fontsize" : 10.0,
 													"id" : "obj-2",
+													"linecount" : 2,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 71.0, 339.300049000000001, 511.0, 20.0 ]
+													"patching_rect" : [ 71.0, 339.300049000000001, 511.0, 20.0 ],
+													"text" : "https://pixabay.com/get/54e7d740485aa814f6da8c7dda79367f1236d8ec52566c48702978d1954ac75fbc_1280.jpg"
 												}
 
 											}
@@ -5667,7 +5674,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 71.0, 284.300049000000001, 246.0, 31.0 ]
+													"patching_rect" : [ 71.0, 284.300049000000001, 246.0, 31.0 ],
+													"text" : "tard"
 												}
 
 											}
@@ -5943,7 +5951,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 0.0, 26.0, 1198.0, 313.0 ],
+						"rect" : [ 3.0, 71.0, 1198.0, 313.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -6249,7 +6257,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 720.0, 202.3125, 90.0, 22.0 ]
+									"patching_rect" : [ 720.0, 202.3125, 90.0, 22.0 ],
+									"text" : "pas"
 								}
 
 							}
@@ -6380,7 +6389,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 289.0, 73.0, 50.0, 22.0 ],
-													"text" : "7"
+													"text" : "1"
 												}
 
 											}
@@ -6698,6 +6707,18 @@
 										"style" : "",
 										"subpatcher_template" : "",
 										"boxes" : [ 											{
+												"box" : 												{
+													"id" : "obj-2",
+													"maxclass" : "newobj",
+													"numinlets" : 2,
+													"numoutlets" : 1,
+													"outlettype" : [ "" ],
+													"patching_rect" : [ 159.0, 329.541950113378448, 55.0, 22.0 ],
+													"text" : "pipe 500"
+												}
+
+											}
+, 											{
 												"box" : 												{
 													"color" : [ 1.0, 0.741176, 0.196078, 1.0 ],
 													"id" : "obj-6",
@@ -8258,7 +8279,7 @@
 													"maxclass" : "newobj",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 85.5, 539.0, 53.0, 22.0 ],
+													"patching_rect" : [ 94.75, 564.0, 53.0, 22.0 ],
 													"text" : "s toQlab",
 													"varname" : "u723002328[1]"
 												}
@@ -8271,7 +8292,7 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 119.5, 499.0, 134.0, 22.0 ],
+													"patching_rect" : [ 128.75, 524.0, 134.0, 22.0 ],
 													"text" : "prepend /cue/iago2/text"
 												}
 
@@ -8283,7 +8304,7 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 85.5, 466.0, 127.0, 22.0 ],
+													"patching_rect" : [ 94.75, 491.0, 127.0, 22.0 ],
 													"text" : "prepend /cue/iago/text"
 												}
 
@@ -8295,7 +8316,7 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 85.5, 432.0, 57.0, 22.0 ],
+													"patching_rect" : [ 94.75, 457.0, 57.0, 22.0 ],
 													"text" : "tosymbol"
 												}
 
@@ -8362,6 +8383,13 @@
 											}
 , 											{
 												"patchline" : 												{
+													"destination" : [ "obj-28", 1 ],
+													"source" : [ "obj-2", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
 													"destination" : [ "obj-16", 2 ],
 													"source" : [ "obj-22", 0 ]
 												}
@@ -8411,7 +8439,7 @@
 											}
 , 											{
 												"patchline" : 												{
-													"destination" : [ "obj-28", 1 ],
+													"destination" : [ "obj-2", 0 ],
 													"source" : [ "obj-30", 0 ]
 												}
 
@@ -20209,7 +20237,7 @@
 					"patching_rect" : [ 25.0, 142.0, 469.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 16.0, 61.0, 447.0, 22.0 ],
-					"text" : "aujourd'hui"
+					"text" : "hier"
 				}
 
 			}
@@ -20986,11 +21014,13 @@
 								"box" : 								{
 									"dontreplace" : 1,
 									"id" : "obj-36",
+									"linecount" : 7,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 108.0, 129.0, 494.0, 22.0 ]
+									"patching_rect" : [ 108.0, 129.0, 494.0, 102.0 ],
+									"text" : "introduction de 3e stade de négociation l'animal et 6 des excuses de côtés humain et un allié de la machine le mambo de les garder le contrôle sur la machine mais ça lui échappe il voulait conquérir le végétal et les mettre dans sa poche à l'intérieur de l'animal trois mouvements radicaux se sont divisés avec des visions de très différente et prenant le meilleur ami devant l'autre est un ennemi déclaré des humains et voudrais l'absorber le réunion pour pouvoir le contrôler et l'année entière et l'autre n'a rien à foutre de Le Mans il est fusionner avec lait végétal et ne supporte pas"
 								}
 
 							}
@@ -21002,7 +21032,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 70.0, 159.0, 548.0, 22.0 ]
+									"patching_rect" : [ 70.0, 159.0, 548.0, 22.0 ],
+									"text" : "hier"
 								}
 
 							}
