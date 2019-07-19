@@ -2315,7 +2315,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 818.0, 211.0, 50.0, 22.0 ],
-									"text" : "pas"
+									"text" : "Pacific"
 								}
 
 							}
@@ -6258,7 +6258,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 720.0, 202.3125, 90.0, 22.0 ],
-									"text" : "pas"
+									"text" : "Pacific"
 								}
 
 							}
@@ -6389,7 +6389,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 289.0, 73.0, 50.0, 22.0 ],
-													"text" : "1"
+													"text" : "7"
 												}
 
 											}
@@ -6707,6 +6707,42 @@
 										"style" : "",
 										"subpatcher_template" : "",
 										"boxes" : [ 											{
+												"box" : 												{
+													"id" : "obj-15",
+													"maxclass" : "newobj",
+													"numinlets" : 1,
+													"numoutlets" : 2,
+													"outlettype" : [ "bang", "bang" ],
+													"patching_rect" : [ 16.0, 430.75, 29.5, 22.0 ],
+													"text" : "b"
+												}
+
+											}
+, 											{
+												"box" : 												{
+													"id" : "obj-13",
+													"maxclass" : "message",
+													"numinlets" : 2,
+													"numoutlets" : 1,
+													"outlettype" : [ "" ],
+													"patching_rect" : [ 16.0, 498.0, 29.5, 22.0 ],
+													"text" : "\" \""
+												}
+
+											}
+, 											{
+												"box" : 												{
+													"id" : "obj-10",
+													"maxclass" : "newobj",
+													"numinlets" : 2,
+													"numoutlets" : 1,
+													"outlettype" : [ "bang" ],
+													"patching_rect" : [ 16.0, 466.0, 55.0, 22.0 ],
+													"text" : "del 3000"
+												}
+
+											}
+, 											{
 												"box" : 												{
 													"id" : "obj-2",
 													"maxclass" : "newobj",
@@ -8324,6 +8360,13 @@
  ],
 										"lines" : [ 											{
 												"patchline" : 												{
+													"destination" : [ "obj-13", 0 ],
+													"source" : [ "obj-10", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
 													"destination" : [ "obj-17", 0 ],
 													"order" : 0,
 													"source" : [ "obj-108", 0 ]
@@ -8347,6 +8390,13 @@
 											}
 , 											{
 												"patchline" : 												{
+													"destination" : [ "obj-108", 0 ],
+													"source" : [ "obj-13", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
 													"destination" : [ "obj-16", 0 ],
 													"midpoints" : [ 202.0, 192.0, 168.5, 192.0 ],
 													"source" : [ "obj-14", 1 ]
@@ -8364,6 +8414,13 @@
 												"patchline" : 												{
 													"destination" : [ "obj-39", 0 ],
 													"source" : [ "obj-14", 2 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-10", 0 ],
+													"source" : [ "obj-15", 0 ]
 												}
 
 											}
@@ -8412,6 +8469,15 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-108", 0 ],
+													"order" : 0,
+													"source" : [ "obj-27", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-15", 0 ],
+													"order" : 1,
 													"source" : [ "obj-27", 0 ]
 												}
 
@@ -8447,6 +8513,15 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-108", 0 ],
+													"order" : 0,
+													"source" : [ "obj-33", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-15", 0 ],
+													"order" : 1,
 													"source" : [ "obj-33", 0 ]
 												}
 
@@ -21014,13 +21089,13 @@
 								"box" : 								{
 									"dontreplace" : 1,
 									"id" : "obj-36",
-									"linecount" : 7,
+									"linecount" : 3,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 108.0, 129.0, 494.0, 102.0 ],
-									"text" : "introduction de 3e stade de négociation l'animal et 6 des excuses de côtés humain et un allié de la machine le mambo de les garder le contrôle sur la machine mais ça lui échappe il voulait conquérir le végétal et les mettre dans sa poche à l'intérieur de l'animal trois mouvements radicaux se sont divisés avec des visions de très différente et prenant le meilleur ami devant l'autre est un ennemi déclaré des humains et voudrais l'absorber le réunion pour pouvoir le contrôler et l'année entière et l'autre n'a rien à foutre de Le Mans il est fusionner avec lait végétal et ne supporte pas"
+									"patching_rect" : [ 108.0, 129.0, 494.0, 49.0 ],
+									"text" : "racine de pouce vers le centre une forte que le vitesse souterraine la pause vers le centre gravitationnelle branches pour Seixal veux peut toucher le soleil man gel Solex le même soleil que Minecraft en plastique de Pacific"
 								}
 
 							}
