@@ -2344,13 +2344,14 @@
 			}
 , 			{
 				"box" : 				{
+					"dontreplace" : 1,
 					"id" : "obj-10",
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 424.5, 258.361678004535634, 651.0, 22.0 ],
-					"text" : "say -v Aurelie -r 200 \"nées \""
+					"text" : "say -v Aurelie -r 200 \"alors cè bon \""
 				}
 
 			}
