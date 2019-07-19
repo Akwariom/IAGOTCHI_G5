@@ -176,13 +176,12 @@
 								"box" : 								{
 									"dontreplace" : 1,
 									"id" : "obj-3",
-									"linecount" : 3,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 671.5, 233.0, 281.0, 49.0 ],
-									"text" : "\"Macintosh HD:/Users/iagotchi/Documents/GitHub/IAGOTCHI_G5/pics\""
+									"patching_rect" : [ 671.5, 233.0, 337.0, 22.0 ],
+									"text" : "Charlie:/Users/leo/Documents/workspace/IAGOTCHI_G5/pics"
 								}
 
 							}
@@ -4657,8 +4656,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 587.300048999999944, 445.300049000000001, 50.0, 22.0 ],
-													"text" : "37/100"
+													"patching_rect" : [ 587.300048999999944, 445.300049000000001, 50.0, 22.0 ]
 												}
 
 											}
@@ -4701,13 +4699,11 @@
 													"dontreplace" : 1,
 													"fontsize" : 10.0,
 													"id" : "obj-50",
-													"linecount" : 6,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 100.0, 456.000061000000017, 103.666655999999989, 64.0 ],
-													"text" : "http://img.over-blog-kiwi.com/0/67/19/54/201308/ob_3222820067e4e63675e9ca145e210439_oceanie04.jpg"
+													"patching_rect" : [ 100.0, 456.000061000000017, 103.666655999999989, 64.0 ]
 												}
 
 											}
@@ -4731,8 +4727,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 100.0, 401.000061000000017, 246.0, 31.0 ],
-													"text" : "Moho nobilis"
+													"patching_rect" : [ 100.0, 401.000061000000017, 246.0, 31.0 ]
 												}
 
 											}
@@ -5163,8 +5158,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 38.0, 409.400023999999974, 311.0, 31.0 ],
-													"text" : "Euthyneura"
+													"patching_rect" : [ 38.0, 409.400023999999974, 311.0, 31.0 ]
 												}
 
 											}
@@ -5176,8 +5170,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 453.300048999999944, 356.300049000000001, 50.0, 22.0 ],
-													"text" : "3/3"
+													"patching_rect" : [ 453.300048999999944, 356.300049000000001, 50.0, 22.0 ]
 												}
 
 											}
@@ -5224,8 +5217,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 38.0, 344.500061000000017, 320.0, 20.0 ],
-													"text" : "https://static.inaturalist.org/photos/1181079/medium.jpg?1444472349"
+													"patching_rect" : [ 38.0, 344.500061000000017, 320.0, 20.0 ]
 												}
 
 											}
@@ -5249,8 +5241,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 38.0, 285.100098000000003, 246.0, 31.0 ],
-													"text" : "les"
+													"patching_rect" : [ 38.0, 285.100098000000003, 246.0, 31.0 ]
 												}
 
 											}
@@ -5604,8 +5595,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 511.300048999999944, 361.550018999999963, 52.0, 22.0 ],
-													"text" : "96/100"
+													"patching_rect" : [ 511.300048999999944, 361.550018999999963, 52.0, 22.0 ]
 												}
 
 											}
@@ -5648,13 +5638,11 @@
 													"dontreplace" : 1,
 													"fontsize" : 10.0,
 													"id" : "obj-2",
-													"linecount" : 2,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 71.0, 339.300049000000001, 511.0, 20.0 ],
-													"text" : "https://pixabay.com/get/52e2d1464f5aa514f6da8c7dda79367f1236d8ec52566c48702978d1934ec75cbb_1280.jpg"
+													"patching_rect" : [ 71.0, 339.300049000000001, 511.0, 20.0 ]
 												}
 
 											}
@@ -5678,8 +5666,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 71.0, 284.300049000000001, 246.0, 31.0 ],
-													"text" : "pour"
+													"patching_rect" : [ 71.0, 284.300049000000001, 246.0, 31.0 ]
 												}
 
 											}
@@ -5955,7 +5942,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 0.0, 26.0, 1198.0, 313.0 ],
+						"rect" : [ 3.0, 71.0, 1198.0, 313.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -6261,8 +6248,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 720.0, 202.3125, 90.0, 22.0 ],
-									"text" : "Your"
+									"patching_rect" : [ 720.0, 202.3125, 90.0, 22.0 ]
 								}
 
 							}
@@ -13538,7 +13524,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 121.0, 486.0, 640.0, 480.0 ],
+										"rect" : [ 177.0, 178.0, 640.0, 480.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -13565,6 +13551,7 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "",
+										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-6",
@@ -14146,6 +14133,7 @@
 														"tags" : "",
 														"style" : "",
 														"subpatcher_template" : "",
+														"visible" : 1,
 														"boxes" : [ 															{
 																"box" : 																{
 																	"id" : "obj-88",
@@ -14831,7 +14819,7 @@
 																					"numoutlets" : 1,
 																					"outlettype" : [ "" ],
 																					"patching_rect" : [ 53.0, 416.0, 339.0, 22.0 ],
-																					"text" : "/cue/scName/text \"Eubalaena glacialis\""
+																					"text" : "/cue/scName/text \"Moho apicalis (Hula Bream)\""
 																				}
 
 																			}
@@ -14843,7 +14831,7 @@
 																					"numoutlets" : 1,
 																					"outlettype" : [ "" ],
 																					"patching_rect" : [ 269.0, 182.0, 365.0, 22.0 ],
-																					"text" : "\"Animalia Chordata Mammalia Cetacea Balaenidae Eubalaena\""
+																					"text" : "\"Animalia Chordata Aves Passeriformes Mohoidae Moho\""
 																				}
 
 																			}
@@ -17072,7 +17060,7 @@
 																	"patching_rect" : [ 306.0, 491.0, 367.5, 22.0 ],
 																	"presentation" : 1,
 																	"presentation_rect" : [ 140.0, 432.722960151802624, 394.5, 22.0 ],
-																	"text" : "https://www.iucnredlist.org/species/22704342/93964244"
+																	"text" : "https://www.iucnredlist.org/species/22704329/111776064"
 																}
 
 															}
@@ -17171,7 +17159,7 @@
 																	"patching_rect" : [ 306.0, 117.0, 201.0, 22.0 ],
 																	"presentation" : 1,
 																	"presentation_rect" : [ 140.0, 95.744592030360536, 401.0, 22.0 ],
-																	"text" : "\"Hawaii Oo\""
+																	"text" : "\"Oahu Oo\""
 																}
 
 															}
@@ -17186,7 +17174,7 @@
 																	"patching_rect" : [ 306.0, 89.0, 201.0, 22.0 ],
 																	"presentation" : 1,
 																	"presentation_rect" : [ 140.0, 68.163061353573696, 401.0, 22.0 ],
-																	"text" : "\"Moho nobilis\""
+																	"text" : "\"Moho apicalis\""
 																}
 
 															}
@@ -17201,7 +17189,7 @@
 																	"patching_rect" : [ 306.0, 61.0, 201.0, 22.0 ],
 																	"presentation" : 1,
 																	"presentation_rect" : [ 140.0, 40.581530676786848, 201.0, 22.0 ],
-																	"text" : "22704342"
+																	"text" : "22704329"
 																}
 
 															}
@@ -21116,8 +21104,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 108.0, 129.0, 494.0, 22.0 ],
-									"text" : "et durable de lettre I Met Your"
+									"patching_rect" : [ 108.0, 129.0, 494.0, 22.0 ]
 								}
 
 							}
@@ -21129,8 +21116,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 70.0, 159.0, 548.0, 22.0 ],
-									"text" : "effet durable de lettre I Met Your gence de pisser"
+									"patching_rect" : [ 70.0, 159.0, 548.0, 22.0 ]
 								}
 
 							}
@@ -25061,7 +25047,7 @@
 			}
 , 			{
 				"name" : "iagoSayFr.maxpat",
-				"bootpath" : "~/Documents/GitHub/IAGOTCHI_G5",
+				"bootpath" : "~/Documents/workspace/IAGOTCHI_G5",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
