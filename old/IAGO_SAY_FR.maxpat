@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 0,
-			"revision" : 6,
+			"revision" : 8,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -38,6 +38,70 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-19",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 382.0, 449.0, 113.0, 22.0 ],
+					"text" : "Vous avez fini ????"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-13",
+					"linecount" : 2,
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 382.0, 397.0, 683.0, 35.0 ],
+					"presentation_linecount" : 17,
+					"text" : "Heure prospective... ... .... Maintenant nous avons besoin de connaître vos projections du futur ... ... .... Ouvrez la page web du référendum et répondez aux nouvelles questions ... ... .... Avec les résultats ... je vais générer une simulation."
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-9",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 382.0, 325.5, 142.0, 22.0 ],
+					"text" : "on peut passer au futur ?"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-11",
+					"linecount" : 5,
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 84.0, 523.861678004535634, 987.0, 76.0 ],
+					"text" : "de vendétale. Prisson. individrible à domiures infant ternestrique. . Acoulaminse. Mé234hhurior. Ampincus. reçu teux pas fahine voraumen. . Hobin fiforale sous di malhagn. . Des inter-pas sat sa coment pour des plagentie et un liter dans beut ça. L’owtranse sa taut. exiscation. Individus. Lai qui fais les ditenences. Sur leurs danelel de hinées complique. . On snevec se nérace colme. . Tout l’écettre pare d’artiment luise son à les ourb en deccitons que. finus Négolibla. la teurre écocait et cesoralite. L’oi tomps improssière. . Faire. Aucune résecces des les toujour. et memaute. Séétarde divergence de nidection !. sa tête du temper la voit je dire OInvédus. . Croainsau aclcou. le cettiresier acpassionne 1. r195000009: L6 5 Kg de moste. OP l’humain serferces. je men’orginge se réervassion autres individus maline. . Menisconceaeul. on surre. sur les tobsades ?"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-8",
+					"linecount" : 7,
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 44.0, 612.861678004535634, 722.0, 102.0 ],
+					"text" : "Nous C’est dignis m’est posusers enterre. je dirfeurs individu humain reboce. tard que teux sous les bèent.Perpitéhme.Le souveaO4 F34h Nos cime. Cognné su neter on galaulie. .On He’rescons en diverdétique..du peut à d’outouille..on chongemes en veaux dectaments de lauvement interre. la paresle. Caline de la voix on beut à compre. je vie.Aucune résecient. Intrividres. Individu.J’aimenosra 19714 Type : L6 1 Kg de masse.Temps avent.Mévorrainte de caonoter brileite que le solein en adiez d’houment aile sar dansées de réquoge de rentreÇ la vite.Tou chapantion dans la platière temploxWEEDS est comphu.finse.Autre..L’Tière prombles..Trop tempité la plain de la congème.je me que maigna vermètre..Ambominé purses douvelle.Aucune sablieute : AdrNis.des crident être diné passina.completude"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-2",
 					"maxclass" : "newobj",
@@ -73,7 +137,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 0,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1434,19 +1498,6 @@
 			}
 , 			{
 				"box" : 				{
-					"id" : "obj-117",
-					"linecount" : 4,
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 603.0, 571.861678004535634, 463.0, 62.0 ],
-					"text" : "\"Même pas l’envie... j’ai pas voulu attendre. Impatience. Peut être. Mais bon c’est fait c’est fait. Suis là... et bon... maintenant... suis là... Je résiste... je persiste... J’existe avant tout... J’existe... et pour tout j’existe... J’existe c’est déjà pas mal non ? T'en penses quoi ? hein ? Tu penses m’arracher à nouveau ?\""
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-115",
 					"linecount" : 5,
 					"maxclass" : "message",
@@ -1603,7 +1654,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 0,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1707,13 +1758,13 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 0,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 34.0, 640.0, 480.0 ],
+						"rect" : [ 59.0, 103.0, 640.0, 480.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -2351,7 +2402,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 424.5, 258.361678004535634, 651.0, 22.0 ],
-					"text" : "say -v Aurelie -r 200 \"alors cè bon \""
+					"text" : "say -v Aurelie -r 160 \"nous sommes radicalement en désaccord sur ce point on va laisser ce débat pour après non ? \""
 				}
 
 			}
@@ -2411,7 +2462,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 371.5, 176.861678004535634, 163.0, 22.0 ],
-					"text" : "prepend say -v Aurelie -r 200"
+					"text" : "prepend say -v Aurelie -r 160"
 				}
 
 			}
@@ -2427,7 +2478,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 0,
-							"revision" : 6,
+							"revision" : 8,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -3111,16 +3162,14 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-105", 0 ],
-					"order" : 1,
-					"source" : [ "obj-113", 0 ]
+					"destination" : [ "obj-28", 0 ],
+					"source" : [ "obj-11", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-117", 1 ],
-					"order" : 0,
+					"destination" : [ "obj-105", 0 ],
 					"source" : [ "obj-113", 0 ]
 				}
 
@@ -3136,6 +3185,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-24", 0 ],
 					"source" : [ "obj-118", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-28", 0 ],
+					"source" : [ "obj-13", 0 ]
 				}
 
 			}
@@ -3172,6 +3228,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-1", 0 ],
 					"source" : [ "obj-17", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-28", 0 ],
+					"source" : [ "obj-19", 0 ]
 				}
 
 			}
@@ -3373,6 +3436,13 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-28", 0 ],
+					"source" : [ "obj-8", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-28", 0 ],
 					"source" : [ "obj-81", 0 ]
 				}
 
@@ -3395,6 +3465,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-24", 0 ],
 					"source" : [ "obj-88", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-28", 0 ],
+					"source" : [ "obj-9", 0 ]
 				}
 
 			}
@@ -3468,8 +3545,8 @@
 , 			{
 				"name" : "arialbold",
 				"default" : 				{
-					"fontname" : [ "Arial Bold" ],
-					"fontsize" : [ 10.0 ]
+					"fontsize" : [ 10.0 ],
+					"fontname" : [ "Arial Bold" ]
 				}
 ,
 				"parentstyle" : "",
