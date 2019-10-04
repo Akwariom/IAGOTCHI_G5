@@ -8,9 +8,6 @@ cd $(dirname $0)
 echo opening LITHOSYS_DIST
 open ../LITHOSYS/LAUNCHER_LITHOSYS_FR.COMMAND &
 
-echo opening G5 PULSO OSC
-open /Users/leo/Documents/GitHub/g5localOSC/LAUNCHER_G5_OSC_PULSO.COMMAND &
-
 echo opening IAGOPIXA
 open ../IAGORECO/LAUNCHER_IAGOPIXA.COMMAND &
 
@@ -30,8 +27,8 @@ echo manually open LIVE SET
 
 sleep 1
 
+echo opening WEBSITE CONTROLLER webpage
+open -a "Google Chrome" http://g5interspecies.herokuapp.com/controller.html &
 echo opening LITHOSYS webpage
 open -a "Google Chrome" http://localhost:8080 &
-echo opening WEBSITE CONTROLLER webpage
-open -a "Firefox" http://g5interspecies.herokuapp.com/controller.html &
 echo Done
